@@ -13,7 +13,7 @@ public static void main(String[] args) {
 			
 		
 		R2D2.penDown();
-		R2D2.setPenWidth(10);
+		R2D2.setPenWidth(30);
 		R2D2.move(100);
 		R2D2.turn(90);
 	
